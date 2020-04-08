@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574029360 source:c:\users\user\desktop\gra_v.2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<time.h>
+	<string>
+
